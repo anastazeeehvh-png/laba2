@@ -6,7 +6,7 @@ from student_processing import (StudentStore, ValidationError, sort_by_gpa,
                                 validate_student)
 
 DEFAULT_HOST = "127.0.0.1"
-DEFAULT_PORT = 8081
+DEFAULT_PORT = 8080
 MAX_BODY = 64 * 1024
 
 
